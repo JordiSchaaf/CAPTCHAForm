@@ -23,3 +23,15 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# How it works
+
+## Fill in the form
+![image](https://github.com/user-attachments/assets/355d9ddd-7533-4d42-8e72-3df8b881cfc9)
+
+## Hit submit and solve the captcha
+![image](https://github.com/user-attachments/assets/cee00f83-5154-46c1-8fa9-177b2109c983)
+
+## Hint: checkout the strict mode!
+![image](https://github.com/user-attachments/assets/5f2d9f82-de14-4022-8476-c841e7cb194e)
+
