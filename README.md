@@ -1,4 +1,4 @@
-# captchaForm
+# CAPTCHAForm
 This is my submission for the Hackathon with Lewis, of Lewis Menelaws.<br>
 CAPTCHAForm is a combination of a captcha and a form, which takes security to the next level.
 Besides that it comes with some other benefits: you can check your answers again and it 
