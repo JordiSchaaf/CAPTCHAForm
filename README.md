@@ -4,6 +4,8 @@ CAPTCHAForm is a combination of a captcha and a form, which takes security to th
 Besides that it comes with some other benefits: you can check your answers again and it 
 provides a challenge for people who think normal captchas are too easy.
 
+The project is written in Vue 3, with TailwindCSS.
+
 ## Project Setup
 
 ```sh
